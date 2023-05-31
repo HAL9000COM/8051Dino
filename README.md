@@ -7,6 +7,17 @@
 * Buzzer
 * HD44780-Compatible 1602 LCD Display Module
 
+## Images
+
+![Start](image/start.jpg)  
+Start
+
+![Play](image/play.jpg)  
+Play
+
+![Score](image/score.jpg)  
+Score
+
 ## Credit
 
 Guo Shaojun, Chen Yuanbo, and Fang Yuhang  

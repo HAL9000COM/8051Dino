@@ -9,4 +9,6 @@
 
 ## Credit
 
-Guo Shaojun, Chen Yuanbo,and Fang Yuhang in School of Mechanical Engineering, Sichuan University
+Guo Shaojun, Chen Yuanbo, and Fang Yuhang  
+School of Mechanical Engineering, Sichuan University  
+Dec. 2019  
